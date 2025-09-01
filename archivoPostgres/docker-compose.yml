@@ -1,4 +1,4 @@
-version: '3.9'
+version: 'latest'
 
 volumes:
   db_storage:
