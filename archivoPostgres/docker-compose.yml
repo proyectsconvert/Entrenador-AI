@@ -1,5 +1,5 @@
 # Imagen oficial de evolution-api
-FROM atendai/evolution-api:latest
+FROM atendai/evolution-api:v2.1.1
 
 # Exponer puerto
 EXPOSE 8080
